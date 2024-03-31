@@ -1,2 +1,4 @@
 # Table Printer :
-- by javascript ;
+### USE LANGUAGE :
+- JAVASCRIPT
+- HTML
