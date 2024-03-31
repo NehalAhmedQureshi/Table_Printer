@@ -1,0 +1,2 @@
+# Table Printer :
+- by javascript ;
