@@ -1,0 +1,44 @@
+html{
+    font-size: 10px;
+}
+body {
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+.tablePrinter {
+    background-color: lavender;
+    border: 3px solid black;
+    border-radius: 23px;
+    border-top-color: blueviolet;
+    border-right-style: groove;
+    text-align: center;
+    width: 40%;
+    height: 80vh;
+    font-size: 2.5rem;
+    padding-top: 3rem;
+}
+#tableInput {
+    width: 8rem;
+    height: 8rem;
+    font-size: 2.5rem;
+    border-radius: 50px;
+    text-align: center;
+    background-color: aqua;
+    font-weight: 900;
+    font-style: oblique;
+}
+#inputForm {
+    border: 4px solid black;
+    padding: 1.2rem;
+    border-radius: 20px;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-top-color: blue;
+    border-bottom-color: blue;
+
+}
